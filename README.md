@@ -43,4 +43,5 @@ npm install lucide-react
 
 npx tailwindcss init -p
 
-
+## Application's URL
+https://teacher-management-vert.vercel.app/
