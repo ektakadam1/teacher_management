@@ -45,3 +45,6 @@ npx tailwindcss init -p
 
 ## Application's URL
 https://teacher-management-vert.vercel.app/
+
+## Loom video link
+https://www.loom.com/share/d120c186793348f9b4ba590a8a4941e7?sid=5111f3a0-6f07-419a-b592-aa3780226d19
